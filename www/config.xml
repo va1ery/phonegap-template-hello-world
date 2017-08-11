@@ -28,7 +28,7 @@
     <!-- <preference name="phonegap-version"       value="cli-6.0.0" /> -->
 
     <!-- Plugins -->
-    <!-- Core plugins
+    <!-- Core plugins -->
     <plugin name="cordova-plugin-battery-status"      source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera"              source="npm" spec="~2.1.1" />
     <plugin name="cordova-plugin-media-capture"       source="npm" spec="~1.2.0" />
@@ -49,7 +49,7 @@
     <plugin name="cordova-plugin-statusbar"           source="npm" spec="~2.1.2" />
     <plugin name="cordova-plugin-vibration"           source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist"           source="npm" spec="~1.2.1" />
- -->
+ 
     <!-- Define app icon and splashscreen for each platform. -->
     <platform name="android">
         <icon   src="www/res/icon/android/drawable-ldpi-icon.png"               density="ldpi" />
